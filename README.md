@@ -5,7 +5,7 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=DAXXMOVIEBOT&theme=flag-india)
 [![GIF](https://github.com/DAXXTEAM/DAXXMOVIEBOT/blob/main/DAXXTEAM.gif)](https://github.com/DAXXTEAM)
-   [![𝐌𝐑.𝐃𝐀𝐗𝐗](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")
+   [![MR.VIKAS](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")
                   
 
 
